@@ -5,7 +5,7 @@ V# Hi 👋, I'm Harsh Shukla
 - 🔭 I’m currently working on **C++ Projects**
 - 🌱 I’m learning **Web Development & Data Structures**
 - 💬 Ask me about **C++, Git, GitHub, Programming**
-- 📫 How to reach me: **[your email or LinkedIn link]**
+- 📫 How to reach me: **[https://www.linkedin.com/in/harsh-shukla-7b1a40329/]**
 - ⚡ Fun fact: I love solving puzzles & learning new tech!
 
 ---
