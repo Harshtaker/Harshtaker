@@ -1,4 +1,4 @@
-V# Hi 👋, I'm Harsh Shukla
+# Hi 👋, I'm Harsh Shukla
 
 ### 🚀 A passionate C++ & Python Developer | Tech Intern at CodSoft
 
